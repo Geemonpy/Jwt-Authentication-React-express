@@ -1,0 +1,9 @@
+.hcont{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 200px;
+}
+body{
+    background-color: rgb(252, 222, 222);
+}
